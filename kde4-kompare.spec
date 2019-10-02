@@ -10,7 +10,7 @@ Summary:	Kompare - a program to view the differences between files
 Summary(pl.UTF-8):	Kompare - program służący do porównywania zmian między plikami
 Name:		kde4-%{orgname}
 Version:	4.14.3
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Development/Tools
 Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
